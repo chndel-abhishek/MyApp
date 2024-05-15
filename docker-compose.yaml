@@ -1,4 +1,4 @@
-version: '2.7'
+version: ''
 
 services:
   go-app:
@@ -16,7 +16,7 @@ services:
     container_name: nextjs-app
     ports:
       - "3000:3000"
-    environment:
+    enviroment:
       - NODE_ENV=development
     networks:
       - myapp-network
