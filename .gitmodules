@@ -1,0 +1,9 @@
+[submodule "wordpress-component"]
+	path = wordpress-component
+	url = https://github.com/chndel-abhishek/wordpress-component.git
+[submodule "go-component"]
+	path = go-component
+	url = https://github.com/chndel-abhishek/go-component.git
+[submodule "nextjs-component"]
+	path = nextjs-component
+	url = https://github.com/chndel-abhishek/nextjs-component.git
